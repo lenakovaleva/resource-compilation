@@ -1,0 +1,56 @@
+:root {
+	--chambray: #375d8f;
+	--eminence: #6d337f;
+	--london-hue: #c19bc2;
+	--spindle: #c3d9ed;
+	--vanilla-ice: #eeccd6;
+	--white-linen: #f8ebe6;
+	--cape-palliser: #a1634b;
+}
+
+
+@font-face {
+    font-family: "Ai-Writer-Quattro";
+    src: url(/fonts/iAWriterQuattroS-Regular.woff2);
+}
+
+
+body {
+    font-family: "Ai-Writer-Quattro";
+    background-color: var(--white-linen);
+}
+
+section {
+    padding-top: 30px;
+
+}
+
+h2 {
+	text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+
+}
+
+h1, h2, a {
+    color: var(--cape-palliser);
+}
+
+a:hover {
+    color: var(--cape-palliser);
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    list-style-type: none;
+}
+
+/* a[href*="codecademy.com/"] {
+    background: url(https://codecademy.com/favicon.ico) no-repeat left center;
+    padding-left: 20px;
+} */
