@@ -62,6 +62,7 @@ for (let i = 0; i < idCollection.length; i++) {
         var a = document.createElement("a");
         a.appendChild(text);
         a.href = Collections[i][k][1];
+        a.setAttribute("target", "_blank");
         var li = document.createElement("li");
         li.appendChild(a);
 
