@@ -4,7 +4,8 @@ export let htmlCollection = [
 	["Where to learn HTML and CSS", "https://css-tricks.com/where-do-you-learn-html-css-in-2019/"],
 	["HTML attribute reference", "https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes"],
 	["HTML elements reference","https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
-	
+	["WebReference", "https://webref.ru/"],
+	["Handlebars", "https://handlebarsjs.com/guide/#simple-expressions"],
 
 ];
 
@@ -32,20 +33,31 @@ export let cssCollection = [
 	["SASS @mixin and @include", "https://sass-lang.com/documentation/at-rules/mixin"],
 	["Nine Ways to Write the Best SASS Code", "https://opensenselabs.com/blog/tech/nine-ways-write-best-sass-code"],
 	["Градиент для текста", "https://html5book.ru/gradient-dlya-teksta/"],
+	["Разрешения экранов монитора", "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0)#%D0%A0%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B0"],
+	["CSS Patterns Gallery", "https://leaverou.github.io/css3patterns/"],
+	["Gradient Overlay", "https://webdevetc.com/blog/how-to-add-a-gradient-overlay-to-a-background-image-using-just-css-and-html"],
+
 
 ];
 
 export let jsCollection = [
 	["Учебник learn.javascript.ru", "https://learn.javascript.ru/"],
 	["Учите Vanilla JS", "https://www.cat-in-web.ru/vanilla-js/"],
+	["Free resourses to learn Vanilla JS", "https://github.com/snipcart/learn-vanilla-js"],
 	["Чем отличаются JavaScript и ECMAScript?", "https://habr.com/ru/company/nix/blog/342904/"],
 	["Owl Carousel 2", "https://owlcarousel2.github.io/OwlCarousel2/"],
+	["VibrantJS", "http://jariz.github.io/vibrant.js/"],
 
 ];
 
 export let fontsCollection = [
 	["FontAwesome", "https://fontawesome.com/"],
 	["Google Fonts", "https://fonts.google.com/"],
+	["Iconic Fonts Generator", "http://www.coolwebmasters.com/fonts/4971-besplatnye-generatory-sobstvennyh-ikonicheskih-shriftov-dlya-dizaynerov.html"],
+	["Fontello - icon fonts generator", "http://fontello.com/"],
+	["Icons. Material Design", "https://material.io/resources/icons/?style=baseline"],
+	["Оптимизация шрифтов", "https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru"],
+
 ];
 
 export let colorsCollection = [
@@ -55,12 +67,15 @@ export let colorsCollection = [
 	["Hex Values", "http://online.sfsu.edu/chrism/hexval.html"],
 	["Color Scheme", "https://colorscheme.ru/"],
 	["Palettable", "https://palettable.io/C7B188"],
+	["Как создать палитру, комфортную для всех", "https://habr.com/ru/post/444868/"],
+	["Как создать красивую цветовую палитру", "https://habr.com/ru/post/441278/"]
 ];
 
 export let iconsCollection = [
 	["Tilda icons", "https://tilda.cc/free-icons/"],
 	["Icon8", "https://icons8.com/icons"],
 	["Iconmonstr", "https://iconmonstr.com/"],
+	["Favicons generator", "https://favicon.io/favicon-generator/"],
 ];
 
 export let emmetCollection = [
@@ -82,7 +97,9 @@ export let templatesCollection = [
 
 export let designCollection = [
 	["Visual Design Course", "https://skillcrush.com/blueprint/visual-design-course/"],
-	["", ],
+	["Material Design", "https://material.io/"],
+	["How to Design a Beautiful Polygon Background", "https://medialoot.com/blog/how-to-design-a-beautiful-polygon-background/"]
+
 ];
 
 export let inspirationCollection = [
@@ -92,13 +109,14 @@ export let inspirationCollection = [
 	["Бюро Горбунова", "https://bureau.ru/"],
 	["Студия Артемия Лебедева", "https://www.artlebedev.ru/"],
 	["Shades colors, design", "https://www.elegantthemes.com/blog/wordpress/how-to-comment-your-code-like-a-pro-best-practices-and-good-habits"],
-	["", ],
+	["Jari Zwarts", "https://jari.io/"],
 ];
 
 export let gitCollection = [
 	["Git happens! 6 типичных ошибок Git и как их исправить", "https://habr.com/ru/company/flant/blog/419733/"],
 	["Как научить людей использовать Git", "https://habr.com/ru/post/437000/"],
 	["Скринкаст по Git от Ильи Кантора", "https://www.youtube.com/playlist?list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h"],
+	["Git - система контроля версий", "https://intopsite.ru/git-kontrol-versiy.html"]
 
 ];
 
@@ -122,7 +140,7 @@ export let learningCollection = [
 ];
 
 export let seoCollection = [
-	["", ],
+	["All-in-one SEO pack", "https://ru.wordpress.org/plugins/all-in-one-seo-pack/"],
 	["", ],
 ];
 
@@ -152,7 +170,7 @@ export let npmCollection = [
 
 export let bundlersCollection = [
 	["Сборка проекта с помощью Gulp", "https://habr.com/ru/post/250569/"],
-	["", ],
+	["Webpack", "https://webpack.js.org/"],
 ];
 
 export let animationCollection = [
@@ -164,6 +182,7 @@ export let algorithmsollection = [
 	["Зачем нужны алгоритмы и паттерны", "https://htmlacademy.ru/blog/boost/frontend/short-15"],
 	["Sorting Algorithms Animations", "https://www.toptal.com/developers/sorting-algorithms"],
 	["Паттерны ООП в метафорах", "https://habr.com/ru/post/136766/"],
+	["10 типов структур данных", "https://habr.com/ru/company/netologyru/blog/334914/"],
 ];
 
 export let booksCollection = [
@@ -187,6 +206,8 @@ export let coursesCollection = [
 	["Guides to Web Design and Development", "https://www.smashingmagazine.com/guides/"],
 	["WayUp", "https://wayup.in/"],
 	["Тонкости верстки on Coursera", "https://www.coursera.org/learn/tonkosti-verstki"],
+	["Vlad Minin", "https://www.vladilen.dev/"],
+
 ];
 
 export let youtubeCollection = [
@@ -213,5 +234,20 @@ export let resourcesCollection = [
 
 export let commentsCollection = [
 	["JSDoc", "https://jsdoc.app/"],
+
+];
+
+export let serversCollection = [
+	["OpenServer", "https://intopsite.ru/open-server/html"],
+	[""],
+];
+
+export let phpCollection = [
+	["Running a PHP script", "https://www.codeofaninja.com/2013/06/how-to-run-a-php-script.html"],
+	[]
+];
+
+export let speedCollection = [
+	["Pagespeed Insights", "https://developers.google.com/speed/pagespeed/insights/?hl=RU"],
 
 ];
