@@ -248,7 +248,7 @@ export let serversCollection = [
 
 export let phpCollection = [
 	["Running a PHP script", "https://www.codeofaninja.com/2013/06/how-to-run-a-php-script.html"],
-	[]
+	
 ];
 
 export let speedCollection = [
