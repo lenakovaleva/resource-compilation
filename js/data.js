@@ -86,6 +86,8 @@ export let emmetCollection = [
 export let picturesCollection = [
 	["Free Logo Design", "https://www.freelogodesign.org/"],
 	["Photo Resizer", "https://www.photoresizer.com/"],
+	["Compressor", "https://compressor.io/"],
+	["Kraken", "https://kraken.io/web-interface"],
 ];
 
 export let templatesCollection = [
