@@ -157,6 +157,8 @@ export let toolsCollection = [
 	["Compass. CSS Framework", "http://compass-style.org/"],
 	["Placeholder.com", "http://compass-style.org/"],
 	["Placeholder with kittens", "http://placekitten.com/"],
+	["Stylelint", "https://stylelint.io/"],
+	["ESlint", "https://eslint.org/"],
 
 ];
 
