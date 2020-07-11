@@ -6,6 +6,7 @@ export let htmlCollection = [
 	["HTML elements reference","https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
 	["WebReference", "https://webref.ru/"],
 	["Handlebars", "https://handlebarsjs.com/guide/#simple-expressions"],
+	["Полное руководство по атрибутам data-*", "https://habr.com/ru/company/ruvds/blog/490626/"],
 
 ];
 
@@ -36,7 +37,7 @@ export let cssCollection = [
 	["Разрешения экранов монитора", "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0)#%D0%A0%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B0"],
 	["CSS Patterns Gallery", "https://leaverou.github.io/css3patterns/"],
 	["Gradient Overlay", "https://webdevetc.com/blog/how-to-add-a-gradient-overlay-to-a-background-image-using-just-css-and-html"],
-
+	["Inclusively hidden", "https://css-tricks.com/inclusively-hidden/"],
 
 ];
 
@@ -47,6 +48,10 @@ export let jsCollection = [
 	["Чем отличаются JavaScript и ECMAScript?", "https://habr.com/ru/company/nix/blog/342904/"],
 	["Owl Carousel 2", "https://owlcarousel2.github.io/OwlCarousel2/"],
 	["VibrantJS", "http://jariz.github.io/vibrant.js/"],
+	["Webix", "https://webix.com/"],
+	["fancyBox", "http://fancyapps.com/fancybox/"],
+	["GWT", "http://www.gwtproject.org/overview.html"],
+	["Modernizr", "https://modernizr.com/docs"],
 
 ];
 
